@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: BookStore
+      host: javatechiemongodb-cnt
+      port: 27017
